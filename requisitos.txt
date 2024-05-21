@@ -1,0 +1,3 @@
+TENER INSTALADO PYTHON
+Y
+PARA EJECUTAR USAR EL PROYECTO USAR ------->>>>>>     python main.py
